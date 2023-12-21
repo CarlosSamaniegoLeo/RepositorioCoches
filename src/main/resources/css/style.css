@@ -1,0 +1,17 @@
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 8px 16px;
+    -fx-background-radius: 5px;
+}
+
+.button:hover {
+    -fx-background-color: #45a049;
+}
+
+.fondo {
+    -fx-background-image: url("../Imagenes/Garaje2.jpg");
+    -fx-background-size: cover;
+}
+
